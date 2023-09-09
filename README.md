@@ -46,5 +46,5 @@ The project utilizes the following technologies:
 
 ## Support
 
-For support, email bansalkritarth10@gmail.com
+For support, email vksvs25@gmail.com
 
